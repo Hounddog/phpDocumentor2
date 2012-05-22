@@ -8,7 +8,7 @@
         "psr-0":{
             "": "src/"
         },
-        "classmap": ["vendor/pear-symfony", "src/phpDocumentor"]
+        "classmap": ["src/phpDocumentor"]
     },
     "repositories":[
         { "type":"pear", "url":"http://packages.zendframework.com"},
